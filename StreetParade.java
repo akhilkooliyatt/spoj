@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 import static java.lang.Integer.parseInt;
 
 // Stack and Queue concept
-public class Main {
+public class StreetParade {
     private static BufferedReader f;
 
     public static void main(String[] args) throws IOException {
