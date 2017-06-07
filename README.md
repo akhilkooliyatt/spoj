@@ -1,1 +1,1 @@
-# spoj
+# Reference for students
